@@ -7,7 +7,7 @@
                 echo "Invalid Array";
                 return;
             }
-           
+           //If function added in Updated Branch
             $iterator = $B;
             for($x = 0; $x < $iterator; $x++){
                 echo "Iteration number ".($x+1);
